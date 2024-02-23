@@ -5,4 +5,4 @@
 #
 
 include vendor/xiaomi/miuicamera/SEPolicy.mk
-BOARD_VENDOR_SEPOLICY_DIRS += vendor/xiaomi/miuicamera-pissarro/sepolicy/vendor
+BOARD_VENDOR_SEPOLICY_DIRS += vendor/xiaomi/miuicamera-rosemary/sepolicy/vendor
